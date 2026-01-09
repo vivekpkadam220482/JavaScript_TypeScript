@@ -1,1 +1,1 @@
-Sample test file
+console.log("Hello, World!");
